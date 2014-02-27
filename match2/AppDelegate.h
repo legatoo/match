@@ -7,6 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+extern NSString *wodename;
+extern NSString *wodeuid;
+extern NSString *tadeuid;
+extern NSString *tadename;
+extern NSString *tadegender;
+
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
